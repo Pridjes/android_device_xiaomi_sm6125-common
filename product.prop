@@ -18,7 +18,7 @@ persist.vendor.camera.expose.aux=1
 persist.vendor.camera.HAL3.enabled=1
 persist.vendor.camera.mpo.disabled=1
 persist.vendor.camera.manufacturer=Xiaomi
-persist.vendor.camera.model=Redmi Note 7
+persist.vendor.camera.model=Redmi Note 8
 persist.vendor.camera.stats.test=0
 persist.vendor.camera.awb.sync=2
 persist.vendor.camera.af.sync=2
@@ -42,4 +42,4 @@ persist.vendor.btstack.a2dp_offload_cap=sbc-aptx-aptxtws-aptxhd-aptxadaptive-aac
 persist.data.df.dev_name=rmnet_usb0
 
 # Netflix
-ro.netflix.bsp_rev=Q6150-17263-1
+ro.netflix.bsp_rev=Q6125-17995-1
